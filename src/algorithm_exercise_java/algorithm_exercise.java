@@ -1,4 +1,4 @@
-package algorithm_exercise;
+package algorithm_exercise_java;
 import java.util.*;
 import java.lang.*;
 
